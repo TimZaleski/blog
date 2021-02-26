@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://TimZaleski.github.io/blogsitemap.xml
